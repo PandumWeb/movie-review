@@ -1,0 +1,19 @@
+---
+development:
+  cloud_name: hsvxvasdy
+  api_key: '715181117318488'
+  api_secret: 8MFPwuETpwarj2W5wZmrHJ-3LMw
+  enhance_image_tag: true
+  static_image_support: false
+production:
+  cloud_name: hsvxvasdy
+  api_key: '715181117318488'
+  api_secret: 8MFPwuETpwarj2W5wZmrHJ-3LMw
+  enhance_image_tag: true
+  static_image_support: true
+test:
+  cloud_name: hsvxvasdy
+  api_key: '715181117318488'
+  api_secret: 8MFPwuETpwarj2W5wZmrHJ-3LMw
+  enhance_image_tag: true
+  static_image_support: false
